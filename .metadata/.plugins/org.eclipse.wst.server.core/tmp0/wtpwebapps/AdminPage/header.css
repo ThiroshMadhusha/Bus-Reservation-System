@@ -1,0 +1,260 @@
+@charset "ISO-8859-1";
+
+form{
+	width:1000px;    	
+	padding:35px;
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:auto;
+	margin-right:auto;
+  	display:block;
+  	border-radius: 4px;
+	background-color:black;
+	border: 0px solid black;
+	opacity: 0.8;
+	color: white;
+	
+}
+
+.hero{
+width:100;
+height:100vh;
+
+background-position:center;}
+
+
+body {
+    background-color:  #804000;
+
+
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+ 
+}
+
+
+input[type=submit] {
+  width: 50%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+
+input[type=text], select {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  align :center;
+}
+
+
+h1 {
+    color: 	 #d11aff;
+    margin-left: 40px;
+}
+h2{
+	color: maroon;   
+} 
+
+
+/*styles for header*/
+.header{
+	top:0;
+	position:relative;
+	width:100%;
+}
+
+/*styles for top banner*/
+.topbanner {
+  width:100%;  
+  height: 100%;
+  overflow: hidden;
+}
+
+/*styles for navbar*/
+ul.navbar{
+	margin:-5px 0px 0px 0px;
+	padding:8px 4px 4px 4px;
+	overflow:hidden;
+	width:100%;
+	border-bottom: 2px solid #f2f2f2;
+	background-image:linear-gradient(to right ,#ada996,#F2F2F2,#DBDBDB,#EAEAEA);
+	font-size: 12px;
+}
+
+li.menu{
+	display: block;
+	float: left;
+	padding:4px 16px;
+}
+
+li.menu1{
+	display: block;
+	float: right;
+	padding:4px 10px;
+}
+
+li a {
+	text-decoration: none;
+	font-weight:bold;
+	color:black;
+}
+li a:hover{
+	background-color:none ;
+	color:red;
+}
+
+/*styles for logo*/
+.logo{
+	float:left;
+	width:250px;
+	height:40px;
+	margin-top:40px;
+	margin-left:20px;
+	margin-right:20px;
+	margin-bottom:20px;
+	position:inherit;
+}
+
+/*styles for search box*/
+.wrapper{
+	margin-top:40px;
+	margin-left:350px;
+	margin-right:20px;
+	margin-bottom:20px;
+	
+	position: center;
+    top: 50%;
+    left: 50%;
+    background: #FF0000;
+    width: 700px;
+	height:40px;
+    padding: 2px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 4px;
+}
+
+.wrapper .input {
+    width: 95%;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 0px;
+    font-weight: bold;
+}
+
+.searchbtn {
+    background: #FF0000;
+    width: 0%;
+    border-radius: 10px;
+    position: relative;
+    cursor: pointer;
+}
+
+.searchbtn .fas{
+	color:white;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(60%, -50%);
+    font-size: 18px;
+}
+
+/*styles for top cart*/
+.wrapper .cart{
+    top: 50%;
+    left: 50%;
+	transform: translate(200%, -1%);
+    font-size: 18px;
+}
+
+#footertable{
+	width:100%;
+	position:relative;
+	color: black;
+	background-image:linear-gradient(to right ,#f1f2b5,white);
+	text-align: center;
+	padding:10px;
+}
+.tbheading:first-child{
+	color:black;
+	text-decoration:none;
+	margin-right:55%;
+	font-weight:bold;
+	font-size:13pt;
+}
+
+.tbheading{
+	color:black;
+	text-decoration:none;
+	margin-right:60%;
+	font-weight:bold;
+	font-size:13pt;
+	white-space: nowrap;
+}
+
+.tbheading:last-child{
+	color:black;
+	text-decoration:none;
+	margin-right:65%;
+	font-weight:bold;
+	font-size:13pt;
+	white-space: nowrap;
+}
+
+.ficon{
+	margin-right:8%;
+	white-space: pre-line;	
+}
+
+#cicon{
+	margin-right:20%;
+	color:blue;
+	white-space: nowrap;
+}
+.icon{
+  list-style-type: none;
+  padding-left: 4%;
+  overflow: hidden;
+  display:flex;
+  flex-wrap: nowrap;
+}
+li.icon {
+  float: left;
+  
+}
+li.icon a {
+  padding: 8px;
+}
+/*styles for payment image*/
+#payveri{
+	height:45px;
+	width:200px;
+	margin-right:20%;
+}
+/*styles for footer label*/
+#label{
+	text-align: center;
+	padding: 3px;
+	background-image:radial-gradient(#485563,#29323c);
+	color: white;
+	overflow:visible;
+	width:100%;
+}

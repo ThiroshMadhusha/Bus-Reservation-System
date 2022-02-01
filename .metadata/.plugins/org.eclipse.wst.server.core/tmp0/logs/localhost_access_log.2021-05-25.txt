@@ -1,0 +1,13 @@
+127.0.0.1 - - [25/May/2021:17:00:18 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/May/2021:17:00:20 +0530] "GET /Admin/customerinsert.jsp HTTP/1.1" 200 496
+0:0:0:0:0:0:0:1 - - [25/May/2021:17:00:39 +0530] "POST /Admin/insert HTTP/1.1" 200 156
+0:0:0:0:0:0:0:1 - - [25/May/2021:17:02:47 +0530] "GET /Admin/login.jsp HTTP/1.1" 200 511
+0:0:0:0:0:0:0:1 - - [25/May/2021:17:03:05 +0530] "POST /Admin/login HTTP/1.1" 200 1013
+0:0:0:0:0:0:0:1 - - [25/May/2021:17:03:08 +0530] "GET /Admin/updatecustomer.jsp?id=0&name=pasa&email=abc%40gmail.com&phone=205740102&uname=IT2016&pass=0527 HTTP/1.1" 200 1026
+0:0:0:0:0:0:0:1 - - [25/May/2021:17:03:21 +0530] "POST /Admin/update HTTP/1.1" 200 1004
+0:0:0:0:0:0:0:1 - - [25/May/2021:17:03:34 +0530] "GET /Admin/deletecustomer.jsp?id=0&name=pasa&email=abc%40gmail.com&uname=IT2&pass=0000 HTTP/1.1" 200 851
+0:0:0:0:0:0:0:1 - - [25/May/2021:17:03:46 +0530] "POST /Admin/delete HTTP/1.1" 200 496
+0:0:0:0:0:0:0:1 - - [25/May/2021:17:04:19 +0530] "GET /Admin/customerinsert.jsp HTTP/1.1" 200 496
+0:0:0:0:0:0:0:1 - - [25/May/2021:17:05:02 +0530] "POST /Admin/insert HTTP/1.1" 200 154
+0:0:0:0:0:0:0:1 - - [25/May/2021:17:05:31 +0530] "GET /Admin/customerinsert.jsp HTTP/1.1" 200 496
+0:0:0:0:0:0:0:1 - - [25/May/2021:17:05:43 +0530] "POST /Admin/insert HTTP/1.1" 200 156

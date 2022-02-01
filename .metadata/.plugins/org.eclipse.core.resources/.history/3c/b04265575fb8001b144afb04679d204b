@@ -1,0 +1,71 @@
+@charset "ISO-8859-1";
+
+div h1{
+	color:#2a1625;
+	font-family:cursive;
+	padding-top:50px;
+	font-size:3vw;
+	font-weight:10px;
+	text-align:center;
+}
+
+form{
+	width:500px; 
+	height:450px;
+	padding:35px;
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:auto;
+	margin-right:auto;
+  	display:block;
+  	border-radius: 4px;
+  	box-sizing: border-box;
+	background-color:black;
+	border: 0px solid black;
+	opacity: 0.8;
+	color:white;
+	font-weight:bold;
+}
+
+
+form input[type=text], input[type=password]{ 
+	width: 100%;
+  	padding: 12px 20px;
+  	margin: 12px 0;
+  	display: inline-block;
+	border: 1px solid #ccc;
+  	border-radius: 4px;
+  	box-sizing: border-box;
+	color:purple;
+	background-color:white;
+	font-weight:bold;
+}
+ 
+ .b1{
+background-color:purple;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  display: block;
+  font-size: 16px;
+	position:center;
+	border: 1px solid purple;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+	margin-bottom:20px;
+	opacity: 1;
+	cursor:pointer;
+	color: white;
+}
+form a{
+	 text-decoration: none;
+}
+ 
+ .signinwall{
+	background-image:url("..webapp/images/bus3.jpg");
+	margin-top:50px;
+	margin-bottom:-100px;
+	height:650px;
+	width:100%;
+ }

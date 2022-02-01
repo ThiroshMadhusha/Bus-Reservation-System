@@ -1,0 +1,61 @@
+package servlet;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.List;
+
+public class CustomerDB {
+	
+	public static List<Customer> validate(String userName, String password){
+		
+		ArrayList<Customer> cus = new ArrayList<>();
+		
+		//Create database connection
+		String url = "jdbc:mysql://localhost:8090:3306/customer";
+		String user = "root";
+		String pw = "2057060";
+		
+		//Validate using try catch block
+		
+		try {
+			Class.forName("com.mysql.jdbc.Driver"); // me line eka wenas noweee
+			
+			Connection con = DriverManager.getConnection(url, user, pw);
+			Statement stmt = con.createStatement();			
+			
+			//Write SQL Query in my table 			
+			String sql = "select * from customer where usename='"+userName +"' and password='"+password+"'";
+			
+			// Run sql sheet
+			ResultSet rs = stmt.executeQuery(sql);	
+			
+			//User name password valid nam data tila class ekata gamu
+			//pahalin ganna ewa penweemata wenama jsp page ekak sadana( useraccount.jsp )
+			if(rs.next()) {
+				int id = rs.getInt(1);
+				String name = rs.getString(2);
+				String email = rs.getString(3);
+				String phone = rs.getString(4);
+				String userU = rs.getString(5);
+				String passU = rs.getString(6);
+				
+				//Customer class eke varible walata udin gaththu ewa assign karamu
+				Customer c = new Customer(id, name, email, phone, userU, passU);
+				
+				//Udadi hadagaththu customer object ekata mehi values assign karamu
+				cus.add(c);
+			}
+						
+		}		
+		catch(Exception e) {
+			e.printStackTrace();
+		}		
+		//Assign Customer class variables
+		
+		return cus;
+	}
+
+}

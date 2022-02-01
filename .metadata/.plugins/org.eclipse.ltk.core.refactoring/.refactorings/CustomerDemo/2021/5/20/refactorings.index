@@ -1,0 +1,5 @@
+1620580660921	Move 'login.jsp' to 'view'
+1620580748070	Move 'useraccount.jsp' to 'view'
+1620580809310	Move 'login.jsp' to 'WEB-INF'
+1620580816721	Move 'useraccount.jsp' to 'WEB-INF'
+1620580822273	Delete element

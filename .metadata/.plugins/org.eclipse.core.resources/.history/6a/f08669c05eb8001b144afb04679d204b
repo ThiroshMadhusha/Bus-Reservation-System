@@ -1,0 +1,37 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Login</title>
+
+<link rel ="stylesheet" href="style.css">
+
+</head>
+<body>
+	
+	<div class="signinwall"> 	
+	<img src="bus3.jpg">
+					<h1 class="signinwelcomenote"> Please Login! </h1>
+					<br>
+					<form action="#" method="post">
+  		
+						<label>User name</label><br>
+							<input type="text" placeholder="E-mail address or phone number" name="username" required><br>
+
+						<label for="psw">Password</label><br>
+							<input type="password" placeholder="Enter Password" name="password" required><br><br>
+						
+			
+								
+								<p><input type="checkbox" checked="checked" name="remember"> stay signed in<p>
+						
+							<a href="#"><button type="submit" class="b1">Login</button></a>
+			
+					</form>
+			</div>
+	
+
+</body>
+</html>

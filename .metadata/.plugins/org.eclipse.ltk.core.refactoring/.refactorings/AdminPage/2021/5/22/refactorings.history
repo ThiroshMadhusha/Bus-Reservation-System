@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;styles.css&apos; to &apos;webapp&apos;" description="Move &apos;styles.css&apos; to &apos;webapp&apos;" destination="src/main/webapp" element1="/AdminReport/src/main/webapp/styles.css" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1622152412089" updateReferences="true"/>
+</session>

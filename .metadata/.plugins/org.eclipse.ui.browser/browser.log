@@ -1,0 +1,152 @@
+
+May 26, 2021 19:38:11.757 NEW SESSION
+May 26, 2021 19:38:11.757 [34560:29104:0526/193811.657:ERROR:device_event_log_impl.cc(214)] [19:38:11.658] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 26, 2021 19:38:11.990 [34560:17920:0526/193811.989:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 19:38:11.993 [34560:17920:0526/193811.992:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 19:38:11.994 [34560:17920:0526/193811.992:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 19:38:11.995 [34560:17920:0526/193811.992:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 19:38:11.996 [34560:17920:0526/193811.993:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 19:38:32.102 [34560:17920:0526/193832.101:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 19:38:33.823 [34560:17920:0526/193833.822:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 19:38:35.268 [34560:17920:0526/193835.267:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 19:38:36.57 [34560:17920:0526/193836.056:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 19:38:37.664 [34560:29104:0526/193837.663:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+May 26, 2021 19:38:39.431 [34560:17920:0526/193839.430:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:29:58.134 [14396:33764:0526/202958.133:ERROR:device_event_log_impl.cc(214)] [20:29:58.134] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 26, 2021 20:29:58.196 [14396:31952:0526/202958.196:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 20:29:58.196 [14396:31952:0526/202958.196:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:29:58.196 [14396:31952:0526/202958.196:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:29:58.197 [14396:31952:0526/202958.196:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:29:58.197 [14396:31952:0526/202958.196:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:30:18.968 [14396:31952:0526/203018.967:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:30:23.186 [14396:31952:0526/203023.185:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:30:23.263 [14396:31952:0526/203023.262:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 20:30:24.115 [14396:31952:0526/203024.114:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:30:24.262 [14396:31952:0526/203024.261:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:31:00.571 [14396:31952:0526/203100.570:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:31:07.830 [14396:31952:0526/203107.829:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:31:09.141 [14396:31952:0526/203109.140:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:32:18.937 [30304:33488:0526/203218.937:ERROR:device_event_log_impl.cc(214)] [20:32:18.937] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 26, 2021 20:32:18.989 [30304:23368:0526/203218.987:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 20:32:18.991 [30304:23368:0526/203218.990:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:32:18.992 [30304:23368:0526/203218.991:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:32:18.992 [30304:23368:0526/203218.991:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:32:18.993 [30304:23368:0526/203218.991:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:32:41.41 [30304:23368:0526/203241.041:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 20:32:43.927 [30304:23368:0526/203243.926:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:32:54.760 [19780:5112:0526/203254.760:ERROR:device_event_log_impl.cc(214)] [20:32:54.760] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 26, 2021 20:32:54.816 [19780:20428:0526/203254.815:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 20:32:54.817 [19780:20428:0526/203254.816:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:32:54.818 [19780:20428:0526/203254.817:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:32:54.818 [19780:20428:0526/203254.818:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:32:54.819 [19780:20428:0526/203254.818:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:51:30.341 [34640:30672:0526/205130.339:ERROR:device_event_log_impl.cc(214)] [20:51:30.339] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 26, 2021 20:51:30.390 [34640:31808:0526/205130.389:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 20:51:30.390 [34640:31808:0526/205130.390:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:51:30.391 [34640:31808:0526/205130.390:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:51:30.391 [34640:31808:0526/205130.390:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:51:30.391 [34640:31808:0526/205130.391:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:51:50.755 [34640:31808:0526/205150.754:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:51:52.268 [34640:31808:0526/205152.268:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:51:52.685 [34640:31808:0526/205152.683:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 20:51:54.357 [34640:31808:0526/205154.357:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:51:59.198 [34640:31808:0526/205159.197:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:52:34.811 [34640:31808:0526/205234.811:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 20:52:43.387 [34640:31808:0526/205243.387:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:52:44.543 [34640:31808:0526/205244.543:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:52:48.400 [34640:31808:0526/205248.399:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 26, 2021 20:52:49.988 [34640:31808:0526/205249.988:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:39:03.598 [31864:32476:0527/093903.597:ERROR:device_event_log_impl.cc(214)] [09:39:03.597] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 27, 2021 09:39:03.863 [31864:10312:0527/093903.863:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 27, 2021 09:39:03.864 [31864:10312:0527/093903.863:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:39:03.864 [31864:10312:0527/093903.863:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:39:03.864 [31864:10312:0527/093903.864:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:39:03.864 [31864:10312:0527/093903.864:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:39:28.480 [31864:10312:0527/093928.479:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:39:30.536 [31864:10312:0527/093930.535:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:39:31.551 [31864:10312:0527/093931.551:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:39:32.577 [31864:10312:0527/093932.577:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:39:33.101 [31864:10312:0527/093933.101:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 27, 2021 09:40:11.207 [31864:10312:0527/094011.206:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:40:18.703 [31864:10312:0527/094018.702:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:40:20.514 [31864:10312:0527/094020.513:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:40:25.946 [31864:10312:0527/094025.946:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:40:28.924 [31864:10312:0527/094028.923:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 27, 2021 09:40:44.396 [31864:10312:0527/094044.396:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 27, 2021 09:41:31.842 [31864:10312:0527/094131.841:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:41:55.855 [31864:10312:0527/094155.854:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:42:03.465 [31864:10312:0527/094203.465:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:42:04.883 [31864:10312:0527/094204.882:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:43:39.142 [31864:10312:0527/094339.141:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 27, 2021 09:44:56.266 [31864:10312:0527/094456.264:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:45:06.796 [31864:10312:0527/094506.796:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:45:24.496 [31864:10312:0527/094524.496:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:45:52.750 [31864:10312:0527/094552.749:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:49:40.314 [31864:10312:0527/094940.313:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 27, 2021 09:52:17.352 [31864:10312:0527/095217.352:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:52:41.02 [31864:10312:0527/095241.001:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:52:49.242 [31864:10312:0527/095249.242:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:52:49.244 [31864:32476:0527/095249.242:ERROR:sharing_service.cc(206)] Device registration failed with transient error
+May 27, 2021 09:53:40.636 [31864:10312:0527/095340.636:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:57:32.563 [31864:10312:0527/095732.563:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:58:01.539 [31864:10312:0527/095801.538:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:58:49.872 [31864:10312:0527/095849.860:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 09:59:40.315 [31864:10312:0527/095940.314:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 27, 2021 10:00:42.442 [31864:10312:0527/100042.442:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 27, 2021 10:03:53.345 [31864:10312:0527/100353.344:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 28, 2021 03:52:05.615 [29840:38528:0528/035205.613:ERROR:device_event_log_impl.cc(214)] [03:52:05.614] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+May 28, 2021 08:27:13.636 NEW SESSION
+May 28, 2021 08:27:13.636 [26596:30472:0528/082713.604:ERROR:device_event_log_impl.cc(214)] [08:27:13.604] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 09:11:46.118 [26468:36072:0528/091146.118:ERROR:device_event_log_impl.cc(214)] [09:11:46.118] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 09:13:58.778 [11840:34464:0528/091358.778:ERROR:device_event_log_impl.cc(214)] [09:13:58.777] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:04:26.160 [31896:30672:0528/100426.160:ERROR:device_event_log_impl.cc(214)] [10:04:26.160] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:06:52.113 [4880:30424:0528/100652.112:ERROR:device_event_log_impl.cc(214)] [10:06:52.111] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:07:32.198 [38368:32560:0528/100732.198:ERROR:device_event_log_impl.cc(214)] [10:07:32.198] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:07:53.740 [31888:3760:0528/100753.739:ERROR:device_event_log_impl.cc(214)] [10:07:53.740] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:08:47.303 [37808:20724:0528/100847.302:ERROR:device_event_log_impl.cc(214)] [10:08:47.302] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:10:41.618 [11376:36956:0528/101041.618:ERROR:device_event_log_impl.cc(214)] [10:10:41.618] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:12:16.174 [28920:38344:0528/101216.173:ERROR:device_event_log_impl.cc(214)] [10:12:16.174] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:12:37.445 [29360:34164:0528/101237.444:ERROR:device_event_log_impl.cc(214)] [10:12:37.444] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:13:44.734 [8016:37692:0528/101344.733:ERROR:device_event_log_impl.cc(214)] [10:13:44.733] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:13:58.70 [36528:34748:0528/101358.070:ERROR:device_event_log_impl.cc(214)] [10:13:58.070] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:16:18.277 [37892:29688:0528/101618.276:ERROR:device_event_log_impl.cc(214)] [10:16:18.276] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:16:47.974 [10076:27328:0528/101647.974:ERROR:device_event_log_impl.cc(214)] [10:16:47.973] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:17:31.284 [36184:33764:0528/101731.284:ERROR:device_event_log_impl.cc(214)] [10:17:31.284] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:20:53.747 [15472:37652:0528/102053.747:ERROR:device_event_log_impl.cc(214)] [10:20:53.747] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:20:53.748 [15472:37652:0528/102053.748:ERROR:device_event_log_impl.cc(214)] [10:20:53.748] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:29:42.469 [33500:38452:0528/102942.469:ERROR:device_event_log_impl.cc(214)] [10:29:42.469] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:30:47.563 [34292:35148:0528/103047.563:ERROR:device_event_log_impl.cc(214)] [10:30:47.563] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:31:13.741 [2372:31388:0528/103113.741:ERROR:device_event_log_impl.cc(214)] [10:31:13.740] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:32:17.138 [38028:37544:0528/103217.138:ERROR:device_event_log_impl.cc(214)] [10:32:17.138] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:37:01.266 [32560:34028:0528/103701.266:ERROR:device_event_log_impl.cc(214)] [10:37:01.266] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 10:45:40.324 [14728:37820:0528/104540.324:ERROR:device_event_log_impl.cc(214)] [10:45:40.324] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 11:31:23.889 [38040:2448:0528/113123.889:ERROR:device_event_log_impl.cc(214)] [11:31:23.889] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 11:31:23.894 [38040:2448:0528/113123.893:ERROR:device_event_log_impl.cc(214)] [11:31:23.893] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 11:32:03.719 [38816:25280:0528/113203.719:ERROR:device_event_log_impl.cc(214)] [11:32:03.719] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 11:39:00.675 [30648:27700:0528/113900.674:ERROR:device_event_log_impl.cc(214)] [11:39:00.674] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 12:20:20.341 [12408:34824:0528/122020.339:ERROR:device_event_log_impl.cc(214)] [12:20:20.339] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 12:20:21.928 [12408:32068:0528/122021.928:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+May 28, 2021 12:21:25.644 [32040:37448:0528/122125.644:ERROR:device_event_log_impl.cc(214)] [12:21:25.644] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 12:46:43.416 [38180:26192:0528/124643.415:ERROR:device_event_log_impl.cc(214)] [12:46:43.416] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 12:47:16.08 [19004:17224:0528/124716.007:ERROR:device_event_log_impl.cc(214)] [12:47:16.007] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 12:47:58.911 [26404:12064:0528/124758.911:ERROR:device_event_log_impl.cc(214)] [12:47:58.910] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 12:47:58.911 [26404:12064:0528/124758.911:ERROR:device_event_log_impl.cc(214)] [12:47:58.911] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 12:48:28.267 [38000:17576:0528/124828.266:ERROR:device_event_log_impl.cc(214)] [12:48:28.266] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 12:49:55.310 [37564:32868:0528/124955.310:ERROR:device_event_log_impl.cc(214)] [12:49:55.310] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 12:51:01.921 [19376:37768:0528/125101.920:ERROR:device_event_log_impl.cc(214)] [12:51:01.921] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 12:51:14.194 [36580:17560:0528/125114.194:ERROR:device_event_log_impl.cc(214)] [12:51:14.194] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 13:02:48.958 [11164:38148:0528/130248.958:ERROR:device_event_log_impl.cc(214)] [13:02:48.958] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 13:03:22.938 [36060:32784:0528/130322.938:ERROR:device_event_log_impl.cc(214)] [13:03:22.938] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 13:04:52.344 [8592:31884:0528/130452.344:ERROR:device_event_log_impl.cc(214)] [13:04:52.343] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 13:05:10.344 [37288:37268:0528/130510.343:ERROR:device_event_log_impl.cc(214)] [13:05:10.344] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 13:06:24.605 [30100:38784:0528/130624.604:ERROR:device_event_log_impl.cc(214)] [13:06:24.604] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 13:07:15.348 [30680:33828:0528/130715.348:ERROR:device_event_log_impl.cc(214)] [13:07:15.348] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 13:07:15.351 [30680:33828:0528/130715.351:ERROR:device_event_log_impl.cc(214)] [13:07:15.350] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 13:08:04.251 [38488:10172:0528/130804.250:ERROR:device_event_log_impl.cc(214)] [13:08:04.250] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 13:08:27.520 [5864:36136:0528/130827.519:ERROR:device_event_log_impl.cc(214)] [13:08:27.519] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 13:23:05.93 [34308:35856:0528/132305.092:ERROR:device_event_log_impl.cc(214)] [13:23:05.092] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 13:47:17.903 [6216:35908:0528/134717.902:ERROR:device_event_log_impl.cc(214)] [13:47:17.902] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 13:51:16.903 [25332:32328:0528/135116.902:ERROR:device_event_log_impl.cc(214)] [13:51:16.903] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 14:18:31.713 [3648:37628:0528/141831.713:ERROR:device_event_log_impl.cc(214)] [14:18:31.712] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 28, 2021 14:25:43.166 [31780:34376:0528/142543.165:ERROR:device_event_log_impl.cc(214)] [14:25:43.165] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)

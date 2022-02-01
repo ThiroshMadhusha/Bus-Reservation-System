@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [23/May/2021:03:22:20 +0530] "POST /Admin/insert HTTP/1.1" 200 156
+0:0:0:0:0:0:0:1 - - [23/May/2021:03:26:02 +0530] "GET /Admin/login.jsp HTTP/1.1" 200 511
+0:0:0:0:0:0:0:1 - - [23/May/2021:03:26:18 +0530] "POST /Admin/login HTTP/1.1" 200 1005
+0:0:0:0:0:0:0:1 - - [23/May/2021:03:26:21 +0530] "GET /Admin/updatecustomer.jsp?id=2&name=Daca&email=acc%40gmail.com&phone=754878854&uname=IT20&pass=521 HTTP/1.1" 200 1023
+0:0:0:0:0:0:0:1 - - [23/May/2021:03:28:49 +0530] "POST /Admin/update HTTP/1.1" 200 1022
+0:0:0:0:0:0:0:1 - - [23/May/2021:03:29:52 +0530] "GET /Admin/customerinsert.jsp HTTP/1.1" 200 496
+0:0:0:0:0:0:0:1 - - [23/May/2021:03:31:37 +0530] "POST /Admin/insert HTTP/1.1" 200 156

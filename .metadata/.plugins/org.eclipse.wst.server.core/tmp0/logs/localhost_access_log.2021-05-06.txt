@@ -1,0 +1,16 @@
+127.0.0.1 - - [06/May/2021:04:06:17 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [06/May/2021:04:09:59 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/May/2021:04:10:00 +0530] "GET /CustomerDemo/login.jsp HTTP/1.1" 200 377
+0:0:0:0:0:0:0:1 - - [06/May/2021:04:11:37 +0530] "POST /CustomerDemo/log HTTP/1.1" 404 771
+0:0:0:0:0:0:0:1 - - [06/May/2021:12:56:43 +0530] "GET /CustomerDemo/servlet/com.customer.LoginServlet HTTP/1.1" 404 805
+0:0:0:0:0:0:0:1 - - [06/May/2021:12:58:00 +0530] "GET /CustomerDemo/login.jsp HTTP/1.1" 200 377
+0:0:0:0:0:0:0:1 - - [06/May/2021:12:58:15 +0530] "POST /CustomerDemo/log HTTP/1.1" 404 771
+127.0.0.1 - - [06/May/2021:13:24:24 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/May/2021:13:24:25 +0530] "GET /CustomerDemo/login.jsp HTTP/1.1" 200 377
+0:0:0:0:0:0:0:1 - - [06/May/2021:13:25:00 +0530] "POST /CustomerDemo/log HTTP/1.1" 404 771
+127.0.0.1 - - [06/May/2021:20:54:45 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/May/2021:20:54:47 +0530] "GET /CustomerDemo/login.jsp HTTP/1.1" 200 377
+0:0:0:0:0:0:0:1 - - [06/May/2021:20:55:18 +0530] "POST /CustomerDemo/log HTTP/1.1" 404 771
+127.0.0.1 - - [06/May/2021:21:09:22 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/May/2021:21:10:01 +0530] "GET /CustomerDemo/login.jsp HTTP/1.1" 200 377
+0:0:0:0:0:0:0:1 - - [06/May/2021:21:10:28 +0530] "POST /CustomerDemo/log HTTP/1.1" 404 771
